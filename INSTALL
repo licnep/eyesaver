@@ -1,0 +1,11 @@
+run these commands in the uncompressed directory:
+
+$ cmake -DCMAKE_INSTALL_PREFIX=`kde4-config --prefix`
+$ make 
+$ sudo make install
+
+Have fun !
+
+            ___--Schifos Productions--___
+
+

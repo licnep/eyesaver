@@ -1,0 +1,16 @@
+[Desktop Entry]
+Comment=preserve your sight!
+Name=eyesaver
+Type=Service
+Icon=xeyes
+X-KDE-Library=plasma_applet_eyesaver
+X-KDE-PluginInfo-Author=SchifosProductions
+X-KDE-PluginInfo-Category=Date and Time
+X-KDE-PluginInfo-Depends=
+X-KDE-PluginInfo-Email=lsnpreziosi@gmail.com
+X-KDE-PluginInfo-EnabledByDefault=true
+X-KDE-PluginInfo-License=GPL
+X-KDE-PluginInfo-Name=eyesaver
+X-KDE-PluginInfo-Version=0.1
+X-KDE-PluginInfo-Website=http://plasma.kde.org/
+X-KDE-ServiceTypes=Plasma/Applet
